@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou me aprofundando em **Python, Machine Learning (skitlearn + Tensorflow)**
 - Projeto de Marketing --> [Previsão de churn de clientes](https://github.com/ArthurLagares/projeto-customer-churn.git)
-- 
+  
 - Projeto em Educação --> [Segmentação de alunos por dificuldade](https://github.com/ArthurLagares/Projeto-Saeb.git)
 
 - Projeto em Educação --> [Previsão de notas baseado em comportamento](https://github.com/ArthurLagares/previsao_de_notas.git)
