@@ -10,7 +10,7 @@
 
 - 💬 Fique à vontade conversar comigo sobre **criação de código, modelos e , principalmente, problemas de negócio!**
 
-- 📫 Onde me encontrar **https://www.linkedin.com/in/arthur-menezes-0a8537355/**
+- 📫 Onde me encontrar **https://www.linkedin.com/in/arthurlagares**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
